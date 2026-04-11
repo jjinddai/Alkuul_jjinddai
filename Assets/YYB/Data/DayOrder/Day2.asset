@@ -23,9 +23,15 @@ MonoBehaviour:
       portraitSet: {fileID: 11400000, guid: 9eb38f1c2159da045b26ff807bf80b49, type: 2}
     slots:
     - dialogueLine: "\" \uADF8\uB9AC\uC6B4 \uC61B\uB0A0\uC744 \uB290\uB07C\uACE0
-        \uC2F6\uC5B4\uC694.. \""
+        \uC2F6\uC5B4\uC694.. \"\n\"\uCE5C\uAD6C\uB4E4\uACFC... \uC6C3\uC73C\uBA70
+        \uC598\uAE30\uD558\uB358 \uB54C\uAC00 \uC788\uC5C8\uC5B4\uC694.\"\n\"\uD558\uC9C0\uB9CC
+        \uC9C0\uAE08\uC740... \uC0AC\uB78C\uC774 \uBB34\uC11C\uC6CC\uC11C \uBC16\uC5D0
+        \uB098\uAC08 \uC218\uAC00 \uC5C6\uC5B4\uC694.\""
       postServeLines:
       - "\"...\uB530\uB73B\uD574\uC694. \uC61B\uB0A0 \uC0DD\uAC01\uB098\uC694.\""
+      - "\"\uCE5C\uAD6C\uB4E4\uACFC... \uADF8\uB54C\uAC00 \uC0DD\uAC01\uB098\uC694.\""
+      - "\"\uADF8\uB9AC\uC6C0\uC740... \uC2AC\uD504\uC9C0\uB9CC, \uB530\uB73B\uD558\uAE30\uB3C4
+        \uD558\uB124\uC694.\""
       keywords:
       - {fileID: 11400000, guid: 15b4c0c2eb1d17946b834db712c65ee0, type: 2}
       abvRange: {x: 0, y: 0}
@@ -33,7 +39,8 @@ MonoBehaviour:
     - dialogueLine: "\" \uC774\uBC88\uC5D4 \uC81C\uAC00 \uC0C8\uB85C \uD0DC\uC5B4\uB0A0
         \uC218 \uC788\uB294 \uC124\uB808\uB294 \uAC10\uC815\uC744 \uB290\uB07C\uACE0
         \uC2F6\uC5B4\uC694 \""
-      postServeLines: []
+      postServeLines:
+      - 
       keywords:
       - {fileID: 11400000, guid: fb048cdeee54e4345b4a33bde2587a8f, type: 2}
       abvRange: {x: 0, y: 0}
@@ -45,7 +52,9 @@ MonoBehaviour:
       icePreference: 1
       portraitSet: {fileID: 11400000, guid: 9f05f3a63ad04d347b2044f454a11ef3, type: 2}
     slots:
-    - dialogueLine: "\"\uD654\uAC00 \uB098\uC694. \uB098 \uC790\uC2E0\uC5D0\uAC8C.\""
+    - dialogueLine: "\"\uC871\uC7A5\uC778 \uC800\uB97C \uBBFF\uACE0 \uB530\uB974\uB294
+        \uC0AC\uB78C\uC774 \uB9CE\uC740\uB370.. \uD56D\uC0C1 \uBB34\uC11C\uC6CC \uAC81\uBA39\uC5B4\uC788\uB294
+        \uC800 \uC790\uC2E0\uC5D0\uAC8C \uB108\uBB34 \uD654\uAC00 \uB098\uC694..\""
       postServeLines:
       - "\"...\uADF8\uB798\uB3C4 \uB098\uC058\uC9C0 \uC54A\uB124\uC694. \uAC10\uC0AC\uD574\uC694.\""
       - "\"\uC870\uAE08\uC740 \uB9C8\uC74C\uC774 \uB098\uC544\uC9C4 \uAC83 \uAC19\uC544\uC694.
@@ -61,7 +70,9 @@ MonoBehaviour:
       icePreference: 2
       portraitSet: {fileID: 11400000, guid: c56c58d3fdd9f424ab808426613d846b, type: 2}
     slots:
-    - dialogueLine: "\"\uAC00\uC7A5 \uB3C5\uD55C \uAC78\uB85C \uD558\uB098.\""
+    - dialogueLine: "\"\uC7A5\uAD70\uC778 \uB0B4\uAC00.. \uC804\uC7C1\uC774 \uB108\uBB34
+        \uBB34\uC11C\uC6CC..\"\n\"\uB098 \uC790\uC2E0\uC5D0 \uB300\uD55C \uBD84\uB178\uC640
+        \uD610\uC624\uAC10.. \uC544\uC8FC \uB3C5\uD558\uAC8C \uD55C \uC794 \uC918\""
       postServeLines:
       - "\"\uC774\uAC74 \uC2AC\uD514\uC774\uC796\uC544! \uB098\uB294 \uBD84\uB178\uB97C
         \uC6D0\uD588\uC5B4!\""

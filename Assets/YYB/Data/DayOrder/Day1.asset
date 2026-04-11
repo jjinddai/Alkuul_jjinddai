@@ -28,7 +28,7 @@ MonoBehaviour:
       postServeLines:
       - "\"\uC644\uBCBD\uD574! \uBC14\uD150\uB354\uC758 \uC7AC\uB2A5\uC774 \uBCF4\uC774\uB124!\""
       - "\"\uB0B4\uC77C\uBD80\uD130 \uB098\uB294 \uC77C\uC774 \uC788\uC5B4\uC11C
-        \uC5F4\uC2EC\uD788 \uD574\uBD10!\""
+        \uBABB \uB3C4\uC640\uC918.. \uD798\uB0B4!\""
       keywords:
       - {fileID: 11400000, guid: fb048cdeee54e4345b4a33bde2587a8f, type: 2}
       abvRange: {x: 0, y: 0}
